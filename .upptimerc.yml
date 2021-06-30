@@ -3,14 +3,12 @@ owner: "0x111" # Your GitHub organization or username, where this repository liv
 repo: "up.szolar.ly" # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: szolar.ly
+    url: https://szolar.ly
+  - name: RS-Labs
+    url: https://rs-labs.io
+  - name: paste.me
+    url: https://paste.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,8 +18,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**UP.SZOLAR.LY**"
+  introMessage: The status page includes all websites that are public and should be available all the time. Non-public resources or services that are not websites, are not being included.
   navbar:
     - title: Status
       href: /
