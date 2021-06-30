@@ -5,10 +5,13 @@ repo: "up.szolar.ly" # The name of this repository
 sites:
   - name: szolar.ly
     url: https://szolar.ly
+    icon: https://szolar.ly/images/favicon.svg
   - name: RS-Labs
     url: https://rs-labs.io
+    icon: https://rs-labs.io/images/icon_hud1fe04749e578cc6736a76a0b4fa95b9_9966_32x32_fill_lanczos_center_2.png
   - name: paste.me
     url: https://paste.me
+    icon: https://paste.me/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
