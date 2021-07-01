@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**UP.SZOLAR.LY**"
-  introMessage: The status page includes all websites that are public and should be available all the time. Non-public resources or services that are not websites, are not being included.
+  introMessage: The status page includes all websites that are public and should be available all the time.
   navbar:
     - title: Status
       href: /
