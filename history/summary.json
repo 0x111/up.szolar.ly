@@ -40,17 +40,19 @@
     "url": "https://paste.me",
     "icon": "https://paste.me/favicon.png",
     "slug": "paste-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2059,
-    "timeDay": 5676,
-    "timeWeek": 2059,
-    "timeMonth": 2059,
-    "timeYear": 2059,
-    "dailyMinutesDown": {}
+    "time": 1896,
+    "timeDay": 2968,
+    "timeWeek": 1896,
+    "timeMonth": 1896,
+    "timeYear": 1896,
+    "dailyMinutesDown": {
+      "2021-07-07": 0
+    }
   }
 ]
