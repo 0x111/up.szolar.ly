@@ -4,11 +4,11 @@
     "url": "https://szolar.ly",
     "icon": "https://szolar.ly/images/favicon.svg",
     "slug": "szolar-ly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1040,
     "timeDay": 1404,
@@ -16,7 +16,7 @@
     "timeMonth": 1106,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2021-11-30": 7
+      "2021-11-30": 0
     }
   },
   {
