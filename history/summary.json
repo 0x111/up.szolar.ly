@@ -5,19 +5,17 @@
     "icon": "https://szolar.ly/images/favicon.svg",
     "slug": "szolar-ly",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1052,
-    "timeDay": 1548,
-    "timeWeek": 940,
-    "timeMonth": 1155,
-    "timeYear": 1052,
-    "dailyMinutesDown": {
-      "2021-11-30": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1075,
+    "timeDay": 1753,
+    "timeWeek": 1308,
+    "timeMonth": 1306,
+    "timeYear": 1075,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RS-Labs",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 379,
-    "timeDay": 506,
-    "timeWeek": 442,
-    "timeMonth": 500,
-    "timeYear": 379,
+    "time": 378,
+    "timeDay": 149,
+    "timeWeek": 403,
+    "timeMonth": 497,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2021-11-23": 16
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 4856,
-    "timeWeek": 1479,
-    "timeMonth": 1458,
-    "timeYear": 1339,
+    "time": 1338,
+    "timeDay": 1200,
+    "timeWeek": 1596,
+    "timeMonth": 1512,
+    "timeYear": 1338,
     "dailyMinutesDown": {}
   }
 ]
