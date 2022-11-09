@@ -6,18 +6,16 @@
     "slug": "szolar-ly",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1582,
-    "timeDay": 439,
-    "timeWeek": 2860,
-    "timeMonth": 2807,
-    "timeYear": 1803,
-    "dailyMinutesDown": {
-      "2022-11-08": 11
-    }
+    "time": 1589,
+    "timeDay": 2204,
+    "timeWeek": 2355,
+    "timeMonth": 2794,
+    "timeYear": 1812,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RS-Labs",
@@ -31,10 +29,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 319,
-    "timeDay": 100,
-    "timeWeek": 150,
-    "timeMonth": 158,
-    "timeYear": 309,
+    "timeDay": 236,
+    "timeWeek": 144,
+    "timeMonth": 160,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2022-11-07": 20,
       "2022-06-21": 16,
@@ -54,17 +52,15 @@
     "slug": "paste-me",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1979,
-    "timeDay": 3224,
-    "timeWeek": 3495,
-    "timeMonth": 4150,
-    "timeYear": 2231,
-    "dailyMinutesDown": {
-      "2022-11-08": 11
-    }
+    "time": 1980,
+    "timeDay": 3150,
+    "timeWeek": 3968,
+    "timeMonth": 4189,
+    "timeYear": 2241,
+    "dailyMinutesDown": {}
   }
 ]
