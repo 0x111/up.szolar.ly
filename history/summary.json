@@ -4,18 +4,20 @@
     "url": "https://szolar.ly",
     "icon": "https://szolar.ly/images/favicon.svg",
     "slug": "szolar-ly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2321,
+    "time": 2323,
     "timeDay": 555,
     "timeWeek": 1689,
     "timeMonth": 1058,
     "timeYear": 2727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 1
+    }
   },
   {
     "name": "RS-Labs",
@@ -44,17 +46,19 @@
     "url": "https://paste.me",
     "icon": "https://paste.me/favicon.png",
     "slug": "paste-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2485,
+    "time": 2489,
     "timeDay": 705,
     "timeWeek": 578,
     "timeMonth": 958,
     "timeYear": 2706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-23": 0
+    }
   }
 ]
