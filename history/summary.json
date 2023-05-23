@@ -4,19 +4,19 @@
     "url": "https://szolar.ly",
     "icon": "https://szolar.ly/images/favicon.svg",
     "slug": "szolar-ly",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2323,
-    "timeDay": 555,
-    "timeWeek": 1689,
-    "timeMonth": 1058,
-    "timeYear": 2727,
+    "time": 2324,
+    "timeDay": 476,
+    "timeWeek": 1527,
+    "timeMonth": 1036,
+    "timeYear": 2721,
     "dailyMinutesDown": {
-      "2023-05-23": 1
+      "2023-05-23": 7
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://paste.me",
     "icon": "https://paste.me/favicon.png",
     "slug": "paste-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2489,
-    "timeDay": 705,
-    "timeWeek": 578,
-    "timeMonth": 958,
-    "timeYear": 2706,
+    "timeDay": 593,
+    "timeWeek": 566,
+    "timeMonth": 942,
+    "timeYear": 2700,
     "dailyMinutesDown": {
-      "2023-05-23": 0
+      "2023-05-23": 6
     }
   }
 ]
