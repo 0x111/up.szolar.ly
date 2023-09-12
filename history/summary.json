@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2428,
-    "timeDay": 455,
-    "timeWeek": 970,
-    "timeMonth": 2239,
-    "timeYear": 2561,
+    "time": 2436,
+    "timeDay": 4618,
+    "timeWeek": 1541,
+    "timeMonth": 2367,
+    "timeYear": 2563,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://rs-labs.io",
     "icon": "https://rs-labs.io/images/icon_hud1fe04749e578cc6736a76a0b4fa95b9_9966_32x32_fill_lanczos_center_2.png",
     "slug": "rs-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 218,
-    "timeWeek": 264,
-    "timeMonth": 215,
+    "timeDay": 0,
+    "timeWeek": 259,
+    "timeMonth": 216,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2022-11-15": 47,
       "2022-11-07": 20
     }
@@ -49,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2356,
-    "timeDay": 419,
-    "timeWeek": 555,
-    "timeMonth": 1367,
-    "timeYear": 2398,
+    "time": 2353,
+    "timeDay": 488,
+    "timeWeek": 548,
+    "timeMonth": 1366,
+    "timeYear": 2394,
     "dailyMinutesDown": {}
   }
 ]
