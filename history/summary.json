@@ -4,18 +4,20 @@
     "url": "https://szolar.ly",
     "icon": "https://szolar.ly/images/favicon.svg",
     "slug": "szolar-ly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2463,
+    "time": 2458,
     "timeDay": 4760,
     "timeWeek": 3548,
     "timeMonth": 1843,
     "timeYear": 2429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "RS-Labs",
