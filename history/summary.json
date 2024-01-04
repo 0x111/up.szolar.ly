@@ -22,19 +22,19 @@
     "url": "https://rs-labs.io",
     "icon": "https://rs-labs.io/images/icon_hud1fe04749e578cc6736a76a0b4fa95b9_9966_32x32_fill_lanczos_center_2.png",
     "slug": "rs-labs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 237,
-    "timeWeek": 224,
-    "timeMonth": 201,
+    "time": 219,
+    "timeDay": 203,
+    "timeWeek": 217,
+    "timeMonth": 200,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-01-04": 0
+      "2024-01-04": 7
     }
   },
   {
