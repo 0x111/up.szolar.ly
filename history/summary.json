@@ -40,19 +40,19 @@
     "url": "https://paste.me",
     "icon": "https://paste.me/favicon.png",
     "slug": "paste-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2175,
-    "timeDay": 604,
-    "timeWeek": 519,
-    "timeMonth": 1084,
-    "timeYear": 1629,
+    "time": 2167,
+    "timeDay": 517,
+    "timeWeek": 508,
+    "timeMonth": 1064,
+    "timeYear": 1626,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 6
     }
   }
 ]
