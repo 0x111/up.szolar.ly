@@ -40,17 +40,19 @@
     "url": "https://paste.me",
     "icon": "https://paste.me/favicon.png",
     "slug": "paste-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2172,
+    "time": 2175,
     "timeDay": 604,
     "timeWeek": 519,
     "timeMonth": 1084,
     "timeYear": 1629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   }
 ]
