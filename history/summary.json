@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2409,
-    "timeDay": 431,
-    "timeWeek": 474,
-    "timeMonth": 1443,
+    "time": 2401,
+    "timeDay": 319,
+    "timeWeek": 448,
+    "timeMonth": 1433,
     "timeYear": 2128,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "rs-labs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 203,
-    "timeWeek": 217,
-    "timeMonth": 200,
-    "timeYear": 202,
-    "dailyMinutesDown": {
-      "2024-01-04": 7
-    }
+    "timeDay": 112,
+    "timeWeek": 208,
+    "timeMonth": 197,
+    "timeYear": 201,
+    "dailyMinutesDown": {}
   },
   {
     "name": "paste.me",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2179,
-    "timeDay": 440,
-    "timeWeek": 527,
-    "timeMonth": 1201,
-    "timeYear": 1628,
+    "time": 2172,
+    "timeDay": 604,
+    "timeWeek": 519,
+    "timeMonth": 1084,
+    "timeYear": 1629,
     "dailyMinutesDown": {}
   }
 ]
