@@ -4,18 +4,19 @@
     "url": "https://szolar.ly",
     "icon": "https://szolar.ly/images/favicon.svg",
     "slug": "szolar-ly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1743,
+    "time": 1730,
     "timeDay": 681,
     "timeWeek": 2149,
     "timeMonth": 1493,
     "timeYear": 1555,
     "dailyMinutesDown": {
+      "2024-06-16": 0,
       "2024-01-17": 21
     }
   },
@@ -44,18 +45,19 @@
     "url": "https://paste.me",
     "icon": "https://paste.me/favicon.png",
     "slug": "paste-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1341,
+    "time": 1335,
     "timeDay": 585,
     "timeWeek": 1659,
     "timeMonth": 1171,
     "timeYear": 1185,
     "dailyMinutesDown": {
+      "2024-06-16": 0,
       "2024-01-17": 21
     }
   }
