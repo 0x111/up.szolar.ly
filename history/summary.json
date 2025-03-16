@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1265,
-    "timeDay": 413,
-    "timeWeek": 528,
-    "timeMonth": 1805,
-    "timeYear": 1213,
+    "time": 1267,
+    "timeDay": 1701,
+    "timeWeek": 714,
+    "timeMonth": 1834,
+    "timeYear": 1216,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 261,
-    "timeDay": 252,
-    "timeWeek": 258,
-    "timeMonth": 274,
+    "time": 262,
+    "timeDay": 367,
+    "timeWeek": 292,
+    "timeMonth": 280,
     "timeYear": 280,
-    "dailyMinutesDown": {
-      "2024-03-16": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "paste.me",
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1196,
-    "timeDay": 413,
-    "timeWeek": 532,
-    "timeMonth": 1597,
+    "time": 1189,
+    "timeDay": 605,
+    "timeWeek": 520,
+    "timeMonth": 1608,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2024-10-22": 21
